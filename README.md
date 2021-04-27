@@ -12,4 +12,4 @@ Here i put some example images of my proyect.
 Can you see live Demo [Here](https://colorflipperleguizamonelias.herokuapp.com/index.html)
 
 # Extra information
-I follow [this tutorial](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/javascript-projects-for-beginners/amp/) for made it 
+I follow [this tutorial](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/javascript-projects-for-beginners/amp/) for made it but i add and change some things
