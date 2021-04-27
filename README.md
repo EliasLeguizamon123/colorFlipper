@@ -5,6 +5,7 @@ This is a simple proyect of flipper color using DOM
 Here i put some example images of my proyect.
 
 ![Flipper color image 1](/flipperColor/src/flipper1.png)
+
 ![flipper color image 2](/flipperColor/src/flipper2.png)
 
 # Live demo
